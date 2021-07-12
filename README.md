@@ -5,6 +5,7 @@
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=C%2B%2B&logoColor=csharp)
   ![Dotnet](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
