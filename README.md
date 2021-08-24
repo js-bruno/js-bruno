@@ -42,7 +42,7 @@
 <br/>
 
 <a href="https://github.com/js-bruno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=js-bruno&theme=vue-dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=js-bruno&theme=ayu-mirage&show_icons=true" />
 </a>
 
 <br/>
