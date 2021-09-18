@@ -6,6 +6,7 @@
   ![Dotnet](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot&logoColor=green)
+  ![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate&logoColor=grey)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
