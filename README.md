@@ -38,6 +38,8 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Apache NetBeans IDE](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-333333?style=flat&logo=apachenetbeanside)
+  ![Intellij Community](https://img.shields.io/badge/-Intellij%20IDE%20Community-333333?style=flat&logo=intellijidea)
+  ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-333333?style=flat&logo=eclipseide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   
