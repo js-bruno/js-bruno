@@ -1,4 +1,4 @@
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :gear: &nbsp;Minhas Skills </h3>
 
 **Back-End**
 
